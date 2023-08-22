@@ -139,6 +139,18 @@ nav ul li a:hover::after{
     object-fit: contain;
 }
 
+.yt{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.yt_desc{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+
 /* Style the animated GIF to be absolutely positioned on top of the static image */
 .gif {
     position: absolute;
